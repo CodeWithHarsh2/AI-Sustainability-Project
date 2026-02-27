@@ -2,9 +2,7 @@
 
 ## 📌 Project Overview
 
-This project was completed as part of the **AI for Sustainability – SRIP 2026 assignment**. I have used LLM to write this README file.
-
-The main goal of this project is simple:
+I have used LLM to write some parts of this README file. The main goal of this project is simple:
 
 We use satellite images of the Delhi NCR region and automatically classify the land into categories such as:
 
@@ -29,13 +27,10 @@ The focus was to implement everything clearly and systematically, not just train
 
 The following files were provided in the assignment:
 
-- `Delhi_NCR_region.geojson` → Boundary of Delhi NCR  
+- `Delhi_ncr_region.geojson` → Boundary of Delhi NCR  
 - `Delhi_airshed.geojson` → Airshed boundary  
-- `worldcover_bbox_Delhi_NCR_2021.tif` → ESA WorldCover 2021 land cover raster  
-- `RGB/` folder → 9,216 Sentinel-2 RGB image patches (128 × 128 pixels, 10m resolution)
-
-Each RGB image filename contains its center latitude and longitude coordinates.  
-These coordinates are used for spatial filtering and label extraction.
+- `worldcover_bbox_delhi_ncr_2021.tif` → ESA WorldCover 2021 land cover raster  
+- `rgb/` folder → 9,216 Sentinel-2 RGB image patches (128 × 128 pixels, 10m resolution)
 
 ---
 
@@ -227,4 +222,5 @@ It combines GIS, Remote Sensing, and Machine Learning into a complete working pi
 This project was built carefully step by step, focusing on clarity, structure, and correctness.
 
 The objective was not only to obtain results, but to build a complete and understandable geospatial AI workflow from beginning to end.
+
 
