@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project was completed as part of the **AI for Sustainability – SRIP 2026 assignment**.
+This project was completed as part of the **AI for Sustainability – SRIP 2026 assignment**. I have used LLM to write this README file.
 
 The main goal of this project is simple:
 
@@ -227,3 +227,4 @@ It combines GIS, Remote Sensing, and Machine Learning into a complete working pi
 This project was built carefully step by step, focusing on clarity, structure, and correctness.
 
 The objective was not only to obtain results, but to build a complete and understandable geospatial AI workflow from beginning to end.
+
