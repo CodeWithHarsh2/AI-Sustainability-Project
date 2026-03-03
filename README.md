@@ -32,6 +32,8 @@ The following files were provided in the assignment:
 - `worldcover_bbox_delhi_ncr_2021.tif` → ESA WorldCover 2021 land cover raster  
 - `rgb/` folder → 9,216 Sentinel-2 RGB image patches (128 × 128 pixels, 10m resolution)
 
+I haven't included the dataset files in this GitHub repository as their size was large.
+
 ---
 
 ## 🗂 Project Structure
@@ -222,6 +224,7 @@ It combines GIS, Remote Sensing, and Machine Learning into a complete working pi
 This project was built carefully step by step, focusing on clarity, structure, and correctness.
 
 The objective was not only to obtain results, but to build a complete and understandable geospatial AI workflow from beginning to end.
+
 
 
 
