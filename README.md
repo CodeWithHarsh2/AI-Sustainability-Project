@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-I have used LLM to write some parts of this README file. The main goal of this project is simple:
+** I have used LLM to write some parts of this README file.** The main goal of this project is simple:
 
 We use satellite images of the Delhi NCR region and automatically classify the land into categories such as:
 
@@ -222,5 +222,6 @@ It combines GIS, Remote Sensing, and Machine Learning into a complete working pi
 This project was built carefully step by step, focusing on clarity, structure, and correctness.
 
 The objective was not only to obtain results, but to build a complete and understandable geospatial AI workflow from beginning to end.
+
 
 
